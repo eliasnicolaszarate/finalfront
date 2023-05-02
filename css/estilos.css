@@ -1,0 +1,23 @@
+.fondo{
+    filter: brightness(50%);
+    margin: 0%;
+}
+.fondo>img{
+    
+    width: 600px;
+}
+.footer{
+    background-color: rgb(29, 58, 74);
+}
+
+.card{
+    border: 0;
+}
+
+
+.card img{
+    border-radius: 0px;
+    border: 0px;
+    
+    
+}
